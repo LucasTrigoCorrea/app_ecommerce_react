@@ -1,0 +1,79 @@
+
+
+[
+  
+  {
+    "id": 1,
+    "name": "Smartphone 1",
+    "price": 50.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone 2",
+    "price": 85.5,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone 3",
+    "price": 35.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone 4",
+    "price": 120.0,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone 5",
+    "price": 299.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone 6",
+    "price": 19.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  
+  {
+    "id": 1,
+    "name": "Smartphone 1",
+    "price": 50.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone 2",
+    "price": 85.5,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone 3",
+    "price": 35.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone 4",
+    "price": 120.0,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone 5",
+    "price": 299.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone 6",
+    "price": 19.99,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/it/2401/gallery/it-galaxy-s24-490120-sm-s921blbdeue-thumb-539378151"
+  }
+]
+  
